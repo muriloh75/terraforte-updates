@@ -1,5 +1,5 @@
 {
-  "versao": "7.5",
+  "versao": "7.6",
   "link_zip": "https://github.com/muriloh75/terraforte-updates/raw/refs/heads/main/terraforte_update.zip",
-  "notas": "🔥 Nova funcionalidade de Importação e Correção de Bugs!"
+  "notas": "🔥 Nova funcionalidade de Importação, Correção de Bugs e compatibilidade com versões mais novas do Qgis!"
 }
